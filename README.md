@@ -4,8 +4,7 @@
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 <h2 align="justify">
-    Apaixonado por desenvolvimento web, a motivação que me da quando desenvolvo um site e vejo aplicações rodando é algo excepcional.
-    para mim.
+    Apaixonado por desenvolvimento web, a motivação que me da quando desenvolvo um site e vejo aplicações rodando é algo excepcional para mim.
 </h2>
 
 <br/>
