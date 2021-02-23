@@ -28,17 +28,13 @@
 <code><img height="75" src="https://3.bp.blogspot.com/-wezYT0EUtcM/W9NB1wTpOkI/AAAAAAAAFTM/jOIoB7pYi9sEOVUukyEs7-VFZpEgb8kEQCLcBGAs/s1600/bootstrap-stack.png"></code> &nbsp;&nbsp;
 </p>
 
+<h2 align="center">
+    Redes:
+</h2>
 <p align="center">
  <a href="vitorfalcao123@hotmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="30px" alt="Email"></a> &nbsp; &nbsp;
    <a href="https://github.com/falcaovitor"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="Github"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/marcos-falc%C3%A3o-3a03b8197/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://codepen.io/falcaovitor"><img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" width="30px" alt="Codepen"></a> &nbsp; &nbsp;
+   <a href="https://app.rocketseat.com.br/me/vitor-falcao-1596473806"><img src="https://rocketseat.gallerycdn.vsassets.io/extensions/rocketseat/rocketseatreactnative/3.0.1/1588456740326/Microsoft.VisualStudio.Services.Icons.Default" width="30px" alt="Rocktseat"></a> &nbsp; &nbsp;
 </p>
-
-<br/>
-
-<h3 align="center">Música que gosto de escutar quando estou desenvolvendo:</h3>
-<br/>
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQTceIy54b4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
